@@ -21,7 +21,7 @@ Voici un aperçu des 4 projets que j’ai réalisés à l’université :
 > **Technos utilisées :** [Java]  
 > **Description :** [Jeu de type Pokémon développé en Java dans le cadre d’un projet universitaire visant à appliquer les principes de la programmation orientée objet. ]  
 > **Ce que j’ai appris :** [Un des premiers projets que j'ai effectué, où j'ai appris principalement à faire les classes etc, et voir le resultat affiché dans la console]  
-> 🔗 [Lien vers le repo](Just-Alex67/projet_POOkemon/README.md)
+> 🔗 [Lien vers le repo](projet_POOkemon/README.md)
 
 ---
 
@@ -29,6 +29,6 @@ Voici un aperçu des 4 projets que j’ai réalisés à l’université :
 > **Technos utilisées :** [Java]  
 > **Description :** [Jeu de rôle inspiré de Donjons et Dragons, développé en Java dans le cadre d’un projet universitaire visant à appliquer les principes de la programmation orientée objet. ]  
 > **Ce que j’ai appris :** [Similaire au précédent, c'est un projet orienté objet qui a consolidé les acquis]  
-> 🔗 [Lien vers le repo](Just-Alex67/DOOnjons-et-dragons/README.md)
+> 🔗 [Lien vers le repo](DOOnjons-et-dragons/README.md)
 
 ---
