@@ -1,16 +1,34 @@
-## Hi there 👋
+## Bienvenue sur mon profil GitHub !  
+Je suis actuellement étudiant à l'IUT Robert Schuman, et les dépôts ici contiennent principalement mes projets universitaires.  
 
-<!--
-**Just-Alex67/Just-Alex67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### À propos de moi
+- Mes études actuelles : BUT informatique - année 2.
+- Hobbies :
+         Parkour, Capoiera, Tennis,
+    jeux vidéos :
+          *XCOM Enemy Within*,*XCOM 2*,*Pheonix Point*,*Minecraft*,*Stellaris*...
+- Me contacter : [envoyer un email à mon adresse](mailto:alexandrugabrielvlaicu@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📁 Mes projets universitaires
+
+Voici un aperçu des 4 projets que j’ai réalisés à l’université :  
+
+
+#### Projet 1 — *Projet POOkemon*
+> **Technos utilisées :** [Java]  
+> **Description :** [Jeu de type Pokémon développé en Java dans le cadre d’un projet universitaire visant à appliquer les principes de la programmation orientée objet. ]  
+> **Ce que j’ai appris :** [Un des premiers projets que j'ai effectué, où j'ai appris principalement à faire les classes etc, et voir le resultat affiché dans la console]  
+> 🔗 [Lien vers le repo](Just-Alex67/projet_POOkemon/README.md)
+
+---
+
+#### Projet 2 — *DOOnjons-et-dragons*
+> **Technos utilisées :** [Java]  
+> **Description :** [Jeu de rôle inspiré de Donjons et Dragons, développé en Java dans le cadre d’un projet universitaire visant à appliquer les principes de la programmation orientée objet. ]  
+> **Ce que j’ai appris :** [Similaire au précédent, c'est un projet orienté objet qui a consolidé les acquis]  
+> 🔗 [Lien vers le repo](Just-Alex67/DOOnjons-et-dragons/README.md)
+
+---
