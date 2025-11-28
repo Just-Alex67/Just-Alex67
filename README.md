@@ -33,6 +33,7 @@ Je suis actuellement étudiant à l'IUT Robert Schuman, et les dépôts ici cont
 <p align="center">
   C &nbsp;&nbsp;|&nbsp;&nbsp; C# &nbsp;&nbsp;|&nbsp;&nbsp; Java &nbsp;&nbsp;|&nbsp;&nbsp; HTML &nbsp;&nbsp;|&nbsp;&nbsp; CSS &nbsp;&nbsp;|&nbsp;&nbsp; PHP &nbsp;&nbsp;|&nbsp;&nbsp; SQL
 </p>
+
 ---
 
 ### 📁 Mes projets universitaires
