@@ -12,7 +12,7 @@ Je suis actuellement étudiant à l'IUT Robert Schuman, et les dépôts ici cont
 
 ---
 
-### 🛠️ Languages techniques utilisés
+### 🛠️ Compétences en développement
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70px" />
