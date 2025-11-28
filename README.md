@@ -12,45 +12,27 @@ Je suis actuellement étudiant à l'IUT Robert Schuman, et les dépôts ici cont
 
 ---
 
-<div style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
+### 🛠️ Languages techniques utilisés
 
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70px" />
-    <br>C
-  </div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70px" />
+</p>
 
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70px" />
-    <br>C#
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70px" />
-    <br>Java
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70px" />
-    <br>HTML
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70px" />
-    <br>CSS
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70px" />
-    <br>PHP
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70px" />
-    <br>SQL
-  </div>
-
-</div>
-
+<p align="center">
+  C &nbsp;&nbsp;|&nbsp;&nbsp; C# &nbsp;&nbsp;|&nbsp;&nbsp; Java &nbsp;&nbsp;|&nbsp;&nbsp; HTML &nbsp;&nbsp;|&nbsp;&nbsp; CSS &nbsp;&nbsp;|&nbsp;&nbsp; PHP &nbsp;&nbsp;|&nbsp;&nbsp; SQL
+</p>
 ---
 
 ### 📁 Mes projets universitaires
